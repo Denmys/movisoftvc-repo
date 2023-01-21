@@ -1,0 +1,414 @@
+/**  VARIABLES **/
+:root {
+    --c-dark: #212529;
+    --c-brand: #4e57d4;
+    --c-brand-light: #6970dd;
+    --c-fon-conocenos:#f1f1f1;
+    
+    /* Variable Gradiente del Fondo Inicio */
+    --c-brand-rgb: 0, 15, 41;
+    --c-brand-rgbi:0, 15, 41;
+ 
+    /* variable para lineas del footer */
+    --c-linea-f:#2b9ad1;
+
+    --c-body: #727272;
+    --font-base: "ClashDisplay", sans-serif;
+    --box-shadow: 0px 15px 25px rgba(0, 0, 0, 0.292);
+    --transition: all 0.5s ease;
+    --c-welcome-shadow:  0px 15px 25px rgba(1, 0, 31, 0.836);
+    /* VARIABLES PARA LOS BOTONES */
+    --c--boton: #001739;
+    --c--boton-alumbrado:#173b71;
+    --c-bg-titlesection:rgba(10, 59, 127, 0.034);
+} /** FIN DE LAS VARIABLES **/
+
+body {
+    font-family: var(--font-base);
+    line-height: 1.7;
+    color: var(--c-body);
+}
+
+h1, h2, h3,h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+    font-weight: 600;
+    color: var(--c-dark);
+}
+
+a {
+    text-decoration: none;
+    color: var(--c-brand);
+    transition: var(--transition);
+}
+
+a:hover {
+    color: var(--c-brand-light);
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.section-padding {
+    padding-top: 140px;
+    padding-bottom: 140px;
+}
+
+.theme-shadow { /* TARJETAS DE SERVICIO */
+    box-shadow: var(--c-welcome-shadow);
+}
+
+/** MENU **/
+
+.navbar{
+    box-shadow: var(--box-shadow);
+}
+
+.navbar-nav .nav-link {
+    font-weight: 500;
+    color: var(--c-dark);   
+}
+
+.navbar-nav .nav-link.active {
+    color: var(--c-brand);
+}
+
+/* BOTON */
+
+.btn {
+    font-weight: 600;
+    font-size: 14px;
+    text-transform: uppercase;
+    border-radius: 0;
+    padding: 10px 24px;
+}
+
+.btn-brand {
+    background-color: var(--c--boton);
+    border-color: var(--c--boton);
+    color: white;
+}
+
+.btn-brand:hover {
+    background-color: var(--c--boton-alumbrado) !important;
+    border-color: var(--c--boton-alumbrado) !important;
+    color: white !important;
+}
+
+/* SECCIÓN INICIO */
+
+#inicio {
+    background: linear-gradient(rgba(var(--c-brand-rgb), 0.507), rgba(var(--c-brand-rgb), 0.438)), url(../images/redes.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+/* titulo de seccion about */
+
+.section-title {
+    margin-bottom: 40px;
+}
+
+.acerca-title {
+    background:  url(../images/acercaTrans.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: var(--c-bg-titlesection);
+}
+
+.section-title .line {
+    width: 60px;
+    height: 4px;
+    background-color: var(--c--boton);
+    margin: 16px auto 24px auto;
+}
+
+.section-title p {
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* ICON BOX */
+
+.iconbox {
+    width: 60px;
+    height: 60px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    /*background: rgba(var(--c-brand-rgb), 0.1);*/
+    color: var(--c--boton);
+    font-size: 34px;
+    flex: none;
+}
+
+
+/* SOMBRAS DE TITULOS */
+.title {
+    text-shadow: var(--box-shadow);
+}
+
+/* SOMBRA BIENVENIDA */
+
+.bienvenida {
+    text-shadow: var(--c-welcome-shadow);
+    border: var(--c-welcome-shadow);
+}
+
+.bienvenida p {
+    text-shadow: var(--c-welcome-shadow);
+    border: var(--c-welcome-shadow);
+}
+
+/* Conocenos */
+
+.conocenos {
+    background-color: var(--c-fon-conocenos);
+}
+
+/* Sección Servicios */
+
+#servicios {
+    background-color: var(--c-bg-titlesection);
+}
+
+.servicios {
+    position: relative;
+    overflow: hidden;
+    z-index: 2;
+}
+
+.servicios::after {
+    content: "";
+    width: 40px;
+    height: 40px;
+    background: var(--c-brand-rgb), 0.2;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    transition: var(--transition);
+}
+
+.servicios:hover::after {
+    width: 100%;
+    height: 100%;
+    background: var(--c-brand);
+    z-index: -1;
+}
+
+.servicios:hover h5,
+.servicios:hover p {
+    color: white;
+}
+
+.servicios:hover .iconbox {
+    color: whitesmoke;
+}
+
+/* CONTACTENOS */
+
+#contacto {
+    position: relative;
+    z-index: 2;
+
+}
+
+#contacto::after {
+    content: "";
+    width: 100%;
+    height: 70%;
+    background: linear-gradient(rgba(var(--c-brand-rgb), 0.8), rgba(var(--c-brand-rgb), 0.8)), url(../images/contactenos.jpg);
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    background-repeat: no-repeat;
+}
+
+#contact .form-control {
+    border-radius: 0;
+}
+
+#contact .form-control:focus {
+    box-shadow: none;
+    border-color: var(--c--boton) !important;
+}
+
+/* FOOTER */
+
+footer {
+    padding-top: 100px;
+}
+
+.footer-top  {
+    padding-bottom: 40px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.footer-bottom {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.line-f {
+    width: 60px;
+    height: 4px;
+    background-color: var(--c-linea-f);
+    margin-top: 12px;
+    margin-bottom: 24px;
+}
+
+.line {
+    width: 100%;
+    height: 4px;
+    background-color: var(--c-linea-f);
+    margin-top: 12px;
+    margin-bottom: 24px;
+}
+
+footer li,
+footer p,
+footer a {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+footer ul {
+    list-style: none;
+    padding: 0;
+}
+
+.social-icons a {
+    width: 40px;
+    height: 40px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 100px;
+}
+
+.social-icons a:hover {
+    background-color: var(--c-linea-f);
+    color: white;
+}
+
+/* Corecciones Vista Responsive */
+
+@media (max-width: 575.98px) {
+    .fo-top {
+        text-align: center;
+    }
+    .line-f {
+        display: none;
+    }
+    .subrralla-sm {
+        text-decoration: underline;
+        padding: 10px;
+    }
+}
+
+/*------------ PAGINA DESARROLLO --------------*/
+
+#pag-servicios {
+    background: linear-gradient(rgba(var(--c-brand-rgb), 0.507), rgba(var(--c-brand-rgb), 0.438)), url(../images/movisoft.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+/*------------ CARACTERISICAS RESPONSIVE CON GIRD --------------*/
+
+.caracteristicas {
+    display: grid;
+    grid-template-columns: repeat(
+        auto-fit,
+        minmax(
+            150px,
+            1fr,
+        )
+    )
+    gap: 16px;
+}
+
+.caracteristica{
+    font-size: 1.2rem;
+    text-align: justify;
+    padding: 10px;
+}
+
+.desarrollo{
+    padding: 20px;
+}
+
+.lenguages {
+    max-width: 100%;
+    text-align: center;
+    padding: 20px;
+}
+
+.letra{
+    margin-top: 25px;
+    font-size: 1.2rem;
+    text-align: justify;
+    padding: 7px;
+}
+
+/*------------ SECTION POSICIONAMIENTO --------------*/
+
+#posicionamiento {
+    background: linear-gradient(rgba(var(--c-brand-rgb), 0.507), rgba(var(--c-brand-rgb), 0.438)), url(../images/seo-benefits.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+/*------------ ESTILOS CARD SEO --------------*/
+
+.tiposSEO {
+    position: relative;
+    overflow: hidden;
+    z-index: 2;
+}
+
+.tiposSEO::after {
+    content: "";
+    width: 40px;
+    height: 40px;
+    background: var(--c-brand-rgb), 0.2;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    transition: var(--transition);
+}
+
+.tiposSEO:hover::after {
+    width: 100%;
+    height: 100%;
+    background: var(--c-brand);
+    z-index: -1;
+}
+
+.tiposSEO:hover h5,
+.tiposSEO:hover p {
+    color: white;
+}
+
+.tiposSEO:hover .iconbox {
+    color: whitesmoke;
+}
+
+/* ESTILOS DE GESTION Y MANTENIMIENTO DE SOFTWARE */
+
+#gestion {
+    background: linear-gradient(rgba(var(--c-brand-rgb), 0.507), rgba(var(--c-brand-rgb), 0.438)), url(../images/Software-de-Mantenimiento.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.section-g-padding {
+    padding-top: 60px;
+    padding-bottom: 10px;
+}

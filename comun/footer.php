@@ -20,7 +20,7 @@
     				   <ul>
     					   <li><a href="#">Desarrollo Web</a></li>
     					   <li><a href="#">Soporte Técnico</a></li>
-    					   <li><a href="#">Montaje de RedesS</a></li>
+    					   <li><a href="#">Montaje de Redes</a></li>
     					   <li><a href="#">Venta de Hardware</a></li>
     					   <li><a href="#">Diseño Grafico</a></li>
     				   </ul>    

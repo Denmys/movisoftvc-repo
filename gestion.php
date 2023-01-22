@@ -41,6 +41,7 @@
     <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js"></script>
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
     <script src="./assets/js/main.js"></script>
+    <script type="text/javascript" src="//acortar.org/gen-js"></script>
 </body>
 
 </html>

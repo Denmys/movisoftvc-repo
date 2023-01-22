@@ -19,6 +19,7 @@
     </meta>
     <meta property="og:type" content="article" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    
     <link rel="icon" type="image/png" sizes="16x16" href="./assets/images/fav-icon/favicon-16x16.png">
 
     <title>MoviSoft VC</title>
@@ -209,43 +210,8 @@
 
      <!--CONTACTO-->
 
-     <section class="section-padding bg-light" id="contacto">
-        <div class="container">
-            <div class="row">
-                <div class="col-12 text-center" data-aos="fade-down" data-aos-delay="150">
-                    <div class="section-title">
-                        <h1 class="display-4 text-white fw-semibold">Contácte con Movisoft</h1>
-                        <div class="line bg-white"></div>
-                        <p class="text-white">Su mensaje será atendido por especialistas</p>
-                    </div>
-                </div>
-            </div>
-            <div class="row justify-content-center" data-aos="fade-down" data-aos-delay="250">
-                <div class="col-lg-8">
-                    <form action="#" class="row g-3 p-lg-5 p4 bg-white theme-shadow" id="frmContacto" name="frmContacto">
-                        <div class="form-group col-lg-6">
-                            <input type="text" name="" id="" class="form-control" placeholder="Nombre">
-                        </div>
-                        <div class="form-group col-lg-6">
-                            <input type="text" name="" id="" class="form-control" placeholder="Apellidos">
-                        </div>
-                        <div class="form-group col-lg-12">
-                            <input type="email" name="" id="" class="form-control" placeholder="Dirección Correo Electrónico">
-                        </div>
-                        <div class="form-group col-lg-12">
-                            <input type="text" name="" id="" class="form-control" placeholder="Asunto">
-                        </div>
-                        <div class="form-group col-lg-12">
-                           <textarea name="mensaje" id="mensaje" rows="5" class="form-control" placeholder="Escriba su mensaje aquí"></textarea>
-                        </div>
-                        <div class="form-group col-lg-12 d-grid">
-                            <button id="btnContacto" name="btnContacto" class="btn btn-brand">Enviar Mensaje</button>
-                         </div>
-                    </form>
-                </div>
-            </div>
-        </div>
-     </section>
+     <?php require_once "comun/contacto.php"?>
+
      <!--Footer-->
      <?php require_once "comun/footer.php"?>
      

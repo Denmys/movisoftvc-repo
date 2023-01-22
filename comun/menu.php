@@ -25,7 +25,7 @@
                         <li><a class="dropdown-item" href="desarrollo.php">Desarrollo</a></li>
                         <li><a class="dropdown-item" href="posicionamiento.php">Posicionamiento</a></li>
                         <li><a class="dropdown-item" href="gestion.php">Gestion y Mantenimiento</a></li>
-                        <li><a class="dropdown-item" href="#">Soporte Técnico</a></li>
+                        <li><a class="dropdown-item" href="soporte.php">Soporte Técnico</a></li>
                         <li><a class="dropdown-item" href="#">Hardware</a></li>
                         <li><a class="dropdown-item" href="#">Redes Informáticas</a></li>
                         <li><a class="dropdown-item" href="#">Seguridad Informática</a></li>

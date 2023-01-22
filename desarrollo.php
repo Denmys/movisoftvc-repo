@@ -55,7 +55,7 @@
         </div>
     </section>
 
-    <section id="desarrollo" class="section-padding">
+    <section id="desarrollo" class="section-g-padding">
         <div class="container">
             <div class="row" data-aos="fade-down" data-aos-delay="40">
             <div class="col-12 text-center" data-aos="fade-down" data-aos-delay="50">
@@ -69,20 +69,20 @@
                 </div>
             </div>
             <div class="row">
-            <div class="col-lg-8 ul-caracteristicas" data-aos="fade-down" data-aos-delay="55">
-                <ul class="caracteristicas">
-                    <li class="caracteristica" data-aos="fade-down" data-aos-delay="57">Evaluamos con detalle tus necesidades y requerimientos; escuchamos, diseñamos y desarrollamos lo que quieres y necesitas.</li>
-                    <li class="caracteristica" data-aos="fade-down" data-aos-delay="58">Acordamos contigo una estructura de trabajo (etapa de diseño, de desarrollo y de pruebas) para terminar el proyecto sin retrasos.</li>
-                    <li class="caracteristica" data-aos="fade-down" data-aos-delay="59">Realizamos un diseño web personalizado y único de acuerdo a tus objetivos.</li>
-                    <li class="caracteristica" data-aos="fade-down" data-aos-delay="60">Tenemos en cuenta tu opinión en cada etapa del proyecto, nada se aprueba sin que tu lo hayas hecho primero.</li>
-                    <li class="caracteristica" data-aos="fade-down" data-aos-delay="61">Durante todo el proyecto tendrás contacto directo con el profesional de cada área involucrada, nuestro estilo de trabajo no incluye intermediarios.</li>
-                    <li class="caracteristica" data-aos="fade-down" data-aos-delay="62">Implementamos las mejores herramientas en tecnología: CSS3, Angular JS, HTML5, PHP, MySQL entre otros, para que cada componente de tu página web esté bajo los más altos estandares de calidad.</li>
-                    <li class="caracteristica" data-aos="fade-down" data-aos-delay="63">Tu página web contará con diseño web responsive.</li>
-                    <li class="caracteristica" data-aos="fade-down" data-aos-delay="64">Tu sitio web será probado antes de la entrega para garantizar el funcionamiento de cada uno de los componentes.</li>
-                    <li class="caracteristica" data-aos="fade-down" data-aos-delay="65">Después de entregarte el sitio web hacemos seguimiento para optimizar cualquier elemento que lo necesite.</li>
-                </ul>
-            </div>
-            <div class="col-lg-4" data-aos="fade-down" data-aos-delay="67">
+                <div class="col-lg-8 ul-caracteristicas" data-aos="fade-down" data-aos-delay="55">
+                    <ul class="caracteristicas">
+                        <li class="caracteristica" data-aos="fade-down" data-aos-delay="57">Evaluamos con detalle tus necesidades y requerimientos; escuchamos, diseñamos y desarrollamos lo que quieres y necesitas.</li>
+                        <li class="caracteristica" data-aos="fade-down" data-aos-delay="58">Acordamos contigo una estructura de trabajo (etapa de diseño, de desarrollo y de pruebas) para terminar el proyecto sin retrasos.</li>
+                        <li class="caracteristica" data-aos="fade-down" data-aos-delay="59">Realizamos un diseño web personalizado y único de acuerdo a tus objetivos.</li>
+                        <li class="caracteristica" data-aos="fade-down" data-aos-delay="60">Tenemos en cuenta tu opinión en cada etapa del proyecto, nada se aprueba sin que tu lo hayas hecho primero.</li>
+                        <li class="caracteristica" data-aos="fade-down" data-aos-delay="61">Durante todo el proyecto tendrás contacto directo con el profesional de cada área involucrada, nuestro estilo de trabajo no incluye intermediarios.</li>
+                        <li class="caracteristica" data-aos="fade-down" data-aos-delay="62">Implementamos las mejores herramientas en tecnología: CSS3, Angular JS, HTML5, PHP, MySQL entre otros, para que cada componente de tu página web esté bajo los más altos estandares de calidad.</li>
+                        <li class="caracteristica" data-aos="fade-down" data-aos-delay="63">Tu página web contará con diseño web responsive.</li>
+                        <li class="caracteristica" data-aos="fade-down" data-aos-delay="64">Tu sitio web será probado antes de la entrega para garantizar el funcionamiento de cada uno de los componentes.</li>
+                        <li class="caracteristica" data-aos="fade-down" data-aos-delay="65">Después de entregarte el sitio web hacemos seguimiento para optimizar cualquier elemento que lo necesite.</li>
+                    </ul>
+                </div>
+                <div class="col-lg-4" data-aos="fade-down" data-aos-delay="67">
                     <img src="./assets/images/desarrollo-software.png" class="desarrollo img-fluid rounded mx-auto d-block" alt="Desarrollo Web">
                     <div class="lenguages">
                         <img src="./assets/images/Clases/lang.png" class="img-fluid" alt="Lang">
@@ -93,7 +93,7 @@
                     <div class="lenguages">
                         <img src="./assets/images/movisoft2.jpg" alt="">
                     </div>
-            </div>
+                </div>
             </div>
             <div class="row">
                 <div class="col-lg-12 text-center line-top">
@@ -106,9 +106,76 @@
             </div>
         </div>
     </section>
-
-
-
+    <section id="metodos" class="section-g-padding border-top">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 text-center">
+                    <div class="section-title">
+                        <h1 class="title display-4 fw-semibold" data-aos="fade-down" data-aos-delay="75">Métodos de Desarrollo</h1>
+                        <p data-aos="fade-down" data-aos-delay="78">En movisoft tenemos varios métodos de desarrollo que se ajustan a las necesidades de su Empresa</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-5 amedida">
+                    <div class="card">
+                        <div class="card-header">
+                            Modos de Desarrollo
+                        </div>
+                        <div class="card-body">
+                            <h5 class="card-title" data-aos="fade-down" data-aos-delay="80">Desarrollos Web a Medida</h5>
+                            <p class="card-text">
+                                <ul>
+                                    <li data-aos="fade-down" data-aos-delay="81">Desarrollo de Intranets y aplicaciones corporativas.</li>
+                                    <li data-aos="fade-down" data-aos-delay="82">Diseño páginas Web con desarrollo web personalizado.</li>
+                                    <li data-aos="fade-down" data-aos-delay="83">Portales, webs corporativas y landing pages a medida.</li>
+                                    <li data-aos="fade-down" data-aos-delay="83">Herramientas web (analítica, optimización, etc).</li>
+                                    <li data-aos="fade-down" data-aos-delay="84">Desarrollo ecommerce y diseño de tiendas online a medida.</li>
+                                    <li data-aos="fade-down" data-aos-delay="85">Desarrollo web de catálogos de productos y/o servicios.</li>
+                                    <li data-aos="fade-down" data-aos-delay="86">Mantenimiento web y evolución de contenidos y secciones.</li>
+                                </ul>
+                            </p>
+                            <br>
+                            <h5 class="card-title" data-aos="fade-down" data-aos-delay="90">Desarrollos Web con CMS</h5>
+                            <p class="card-text">
+                                <ul>
+                                    <li data-aos="fade-down" data-aos-delay="91">Expertos en desarrollo de páginas web con gestores de contenido. Diseño páginas web en WordPress, Joomla, Drupal, Prestashop, etc.).</li>
+                                    <li data-aos="fade-down" data-aos-delay="92">Desarrollo de tiendas On-Line / Desarrollo Ecommerce con Prestashop, Woocommerce, Magento, desarrollo ecommerce personalizado, etc.</li>
+                                    <li data-aos="fade-down" data-aos-delay="93">Diseño web de catálogos online con CMS</li>
+                                </ul>
+                            </p>
+                            <br>
+                            <h5 class="card-title" data-aos="fade-down" data-aos-delay="95">SW para comunicación</h5>
+                            <p class="card-text">
+                                <ul>
+                                    <li data-aos="fade-down" data-aos-delay="97">Desarrollo e implementación de motores de eMailing (Email Marketing).</li>
+                                    <li data-aos="fade-down" data-aos-delay="99">Creación y mantenimiento de comunidades virtuales.</li>
+                                </ul>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-7 text-justify">
+                    <h5 data-aos="fade-down" data-aos-delay="81" class="text-center">Servicios de software. Diseño web y desarrollo web</h5>
+                    <p data-aos="fade-down" data-aos-delay="82">Toda empresa precisa tener presencia online hoy en día y, en la mayor parte de las ocasiones. En primer lugar, esto pasa por contar con página web propia, tienda online, aplicaciones de todo tipo… Esto se consigue a través de desarrollos web, ya sean hechos a medida o basados en tecnologías CMS como WordPress, Drupal o Prestashop.</p>
+                    <p data-aos="fade-down" data-aos-delay="83">En MovisoftVC somos expertos en desarrollo web y diseño web. Nuestros profesionales cuentan con una amplia experiencia en el sector de las aplicaciones informáticas. Además, establecemos una relación directa con el cliente para conocer a la perfección el proyecto web que desea construir y hacerlo realidad.</p>
+                    <p data-aos="fade-down" data-aos-delay="84">Trabajamos todo tipo de tecnología en desarrollo web y maquetación. Utilizamos múltiples lenguajes de programación, por ejemplo: PHP, .NET, JAVA, AJAX, REACT … De este modo podemos ofrecer diferentes tipos de desarrollos web, adaptados y personalizados a las necesidades de cada cliente, como:</p>
+                    <p>
+                        <ul data-aos="fade-down" data-aos-delay="85">
+                            <li>Creación y diseño de páginas web y catálogos online de productos y/o servicios.</li>
+                            <li>Desarrollos e-commerce a través de tiendas online (Prestashop, Woocommerce, Magento</li>
+                            <li>Sistemas de Gestión ERP.</li>
+                            <li>Aplicaciones informáticas.</li>
+                            <li>Aplicaciones móviles.</li>
+                        </ul>
+                    </p>
+                    <p data-aos="fade-down" data-aos-delay="86">Realizamos servicios de consultoría tecnológica a todos los niveles con la intención siempre de ofrecer a nuestros clientes las herramientas tecnológicas que más se adapten a las necesidades concretas de cada uno de ellos.</p>
+                    <p data-aos="fade-down" data-aos-delay="87">Movisoft S.U.R.L, siempre con los últimos avances tecnológicos, ofrece servicios de desarrollo de aplicaciones móviles de última generación.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    
      <!--CONTACTO-->
 
      <section class="section-padding bg-light" id="contacto">
@@ -148,6 +215,7 @@
             </div>
         </div>
      </section>
+
 
      <!--Footer-->
 

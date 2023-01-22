@@ -83,7 +83,7 @@
                     Además, si sufres limitaciones físicas o económicas para el equipamiento de tu compañía, la virtualización de máquinas o servicios en la nube nos permitirán modelar óptimamente los recursos de la red, centralizándolos o distribuyéndolos según convenga.</div>
                     <div class="tab-pane fade letra" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">"La nube" es la solución para aquellos que desean reducir costes de infraestructura y administración más alla de la simple virtualización, o simplemente persiguen un nuevo estilo de trabajo.
                     Replicación de máquinas, virtualización cloud o gestión de backups son algunas de las muchas opciones que ofrecen estos servicios. Todo ello mediante una gestión remota centralizada y un aprovisionamiento dinámico y rápido que dotan al entorno de una escalabilidad y versatilidad difícilmente alcanzable con otras estrategias.</div>
-                    <div class="tab-pane fade letra" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">nstalación de sistemas cliente-servidor en todas sus versiones. Desde entornos corporativos PYME hasta grandes empresas, cada uno con sus requerimientos y particulares necesidades.
+                    <div class="tab-pane fade letra" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">Instalación de sistemas cliente-servidor en todas sus versiones. Desde entornos corporativos PYME hasta grandes empresas, cada uno con sus requerimientos y particulares necesidades.
                     Sistemas Operativos en todas sus versiones, Servidores NAS, equipos Thin Client, sistemas POSReady para TPV mediante software licenciado Microsoft y equipos HP de última generación. Con sistemas totalmente escalables, permitiendo recuperar la inversión inicial así como amortizarla en caso de crecimiento.</div>
                     <div class="tab-pane fade letra" id="v-pills-settings" role="tabpanel" aria-labelledby="v-pills-settings-tab">Gestión y diseño de una red son aspectos básicos que garantizan un buen rendimiento.
                     Una red bien estructurada permite optimizar los procesos y abordar los problemas de la manera más eficiente.
@@ -124,6 +124,9 @@
                         En resumen, todos aquellos elementos de seguridad pasiva y activa que minimicen el riesgo de caída para tus sistemas.</p>
                     </div>
                 </div>
+            </div>
+            <div class="col-lg-6 text-center" style="max-width: 100%;" data-aos="fade-down" data-aos-delay="655">
+                <img src="./assets/images/seguridad-inf.png" alt="Especialistas en Soporte">
             </div>
         </div>
     </div>

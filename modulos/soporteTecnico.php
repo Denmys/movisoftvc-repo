@@ -22,42 +22,42 @@
                 </div>
             </div>
         </div>
-        <div class="row">
+        <div class="row" data-aos="fade-down">
             <div class="col-lg-4 image-layers">
                     <img src="./assets/images/asistencia.jpg" alt="">
             </div>
-            <div class="col-lg-8">
+            <div class="col-lg-8" data-aos="fade-down" data-aos-delay="54">
                 <h5 class="text-center">Mantenimiento Preventivo</h5>
                 <p class="letra2">Revisión y diagnóstico In Situ (Visita) simple, medio y complejo, dependiendo del estado de los recursos del cliente. </p>
                 <p class="letra2">Si te encuentras en otro estado y necesitas asesoría te contactamos a través de chat o video-llamada te ayudamos a revolver problemas de software.</p>
                 
-                <h5 class="text-center">Mantenimiento Correctivo</h5>
-                <p class="letra2">Se recomienda realizar mantenimiento preventivo cada 6 meses con el fin de de alargar su vida útil y detectar problemas a tiempo.
+                <h5 class="text-center" data-aos="fade-down" data-aos-delay="55">Mantenimiento Correctivo</h5>
+                <p class="letra2" data-aos="fade-down" data-aos-delay="56">Se recomienda realizar mantenimiento preventivo cada 6 meses con el fin de de alargar su vida útil y detectar problemas a tiempo.
                 Mantenimiento correctivo aquel que corrige los defectos observados en el equipo es la forma más básica de localizar averías o defectos para corregirlos o repararlos</p>
             </div>
             <div class="col-lg-4 soportevar">
-                <h5 class="text-center">Actualización de Computadora o Laptop</h5>
-                <p class="letra2">¿Tu computadora es cada vez mas lenta ? <br>Te ayudamos a instalar nuevos componentes para aumentar la rapidez de tu computadora y mejorar la experiencia de uso. Con una inversión minina.</p>
+                <h5 class="text-center" data-aos="fade-down" data-aos-delay="57">Actualización de Computadora o Laptop</h5>
+                <p class="letra2" data-aos="fade-down" data-aos-delay="58">¿Tu computadora es cada vez mas lenta ? <br>Te ayudamos a instalar nuevos componentes para aumentar la rapidez de tu computadora y mejorar la experiencia de uso. Con una inversión minina.</p>
             </div>
             <div class="col-lg-4 soportevar">
-                <h5 class="text-center">Revisión, Reparación y Mantenimiento en Taller</h5>
-                <p class="letra2">Lo mejor de traer tu equipo en los talleres de MovisoftVC, es que podremos realizar diagnósticos a profundidad y tener soluciones en 24 hrs.</p>
+                <h5 class="text-center" data-aos="fade-down" data-aos-delay="59">Revisión, Reparación y Mantenimiento en Taller</h5>
+                <p class="letra2" data-aos="fade-down" data-aos-delay="60">Lo mejor de traer tu equipo en los talleres de MovisoftVC, es que podremos realizar diagnósticos a profundidad y tener soluciones en 24 hrs.</p>
             </div>
             <div class="col-lg-4 soportevar">
-                <h5 class="text-center">Atención 100% Personalizada</h5>
-                <p class="letra2">Siempre estarás en contacto con agente experto en soporte técnico que te informara cada proceso al que tu equipo se le aplicar, ademas estará atento a cualquier duda o comentario.</p>
+                <h5 class="text-center" data-aos="fade-down" data-aos-delay="61">Atención 100% Personalizada</h5>
+                <p class="letra2" data-aos="fade-down" data-aos-delay="62">Siempre estarás en contacto con agente experto en soporte técnico que te informara cada proceso al que tu equipo se le aplicar, ademas estará atento a cualquier duda o comentario.</p>
             </div>
             <div class="col-lg-4 soportevar">
-                <h5 class="text-center">Soporte Técnico a Distancia</h5>
-                <p class="letra2">Si te encuentras en otro estado y necesitas asesoría te contactamos a través de chat o video-llamada te ayudamos a revolver problemas de software.</p>
+                <h5 class="text-center" data-aos="fade-down" data-aos-delay="63">Soporte Técnico a Distancia</h5>
+                <p class="letra2" data-aos="fade-down" data-aos-delay="64">Si te encuentras en otro Municipio o Provincia y necesitas asesoría te contactamos a través de chat o video-llamada te ayudamos a revolver problemas de software.</p>
             </div>
             <div class="col-lg-4 soportevar">
-                <h5 class="text-center">Garantía hasta 180 días</h5>
-                <p class="letra2">Todo componente que se instale en tu PC o Laptop son totalmente nuevos, genuinos y tienen garantía contra defectos de fabrica.</p>
+                <h5 class="text-center" data-aos="fade-down" data-aos-delay="65">Garantía hasta 180 días</h5>
+                <p class="letra2" data-aos="fade-down" data-aos-delay="66">Todo componente que se instale en tu PC o Laptop son totalmente nuevos, genuinos y tienen garantía contra defectos de fabrica.</p>
             </div>
             <div class="col-lg-4 soportevar">
-                <h5 class="text-center">Sistemas de Cableado Estructurado</h5>
-                <p class="letra2">Realizamos el diseño de las infraestructuras de red de área local (LAN) que permitan la interconexión de puestos de trabajo y periféricos. Nos apoyamos en recursos de redes de cobre, fibra óptica e inalámbricas.</p>
+                <h5 class="text-center" data-aos="fade-down" data-aos-delay="67">Sistemas de Cableado Estructurado</h5>
+                <p class="letra2" data-aos="fade-down" data-aos-delay="68">Realizamos el diseño de las infraestructuras de red de área local (LAN) que permitan la interconexión de puestos de trabajo y periféricos. Nos apoyamos en recursos de redes de cobre, fibra óptica e inalámbricas.</p>
             </div>
         </div>
     </div>

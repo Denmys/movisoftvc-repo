@@ -33,7 +33,7 @@
     					      <li><a href="#">Compromiso</a></li>
     					      <li><a href="#">Objeto Social</a></li>
     					      <li><a href="#">Titular y Legalidad</a></li>
-   					      <li><a href="#">Privacidad</a></li>
+   					      <li><a href="politica.php">Política de Privacidad</a></li>
     				      </ul>    
     			</div>
             <div class="col-lg-3 col-sm-6 text-left">
@@ -50,15 +50,18 @@
                </div>
           </div>
     </div>
-    <div class="footer-bottom">
-      <div class="container">
+    <div class="footer-bottom text-center">
+      <div class="container text-center">
          <div class="row g-4 ali-bot justify-content-between">
             <div class="col-auto">
-               <p class="mb-0">© Copyright MovisoftVC. Todos los Derechos Reservados</p>
+               <p class="mb-0 text-center">© Copyright MovisoftVC. Todos los Derechos Reservados</p>
             </div>
          <div class="col-auto">
-            <p class="mb-0">Diseñado por <a href="index.php" data-bs-toggle="tooltip" data-bs-placement="top" title="Empresa de Servicios Informáticos">Movisoft Team</a></p>
+            <p class="mb-0 text-center">Diseñado por <a href="index.php" data-bs-toggle="tooltip" data-bs-placement="top" title="Empresa de Servicios Informáticos">Movisoft Team</a></p>
          </div>
+		 <div class="col-auto">
+			<p class="mb-0 text-center"><a href="">Política de Calidad</a></p>
+		 </div>
          </div>
     </div>
     </div>

@@ -18,8 +18,11 @@
                         <div class="form-group col-lg-6">
                             <input  type="text" required name="apellidos" id="apellidos"  class="form-control" placeholder="Apellidos">
                         </div>
-                        <div class="form-group col-lg-12">
+                        <div class="form-group col-lg-6">
                             <input type="email" required name="email" id="email" class="form-control" placeholder="Dirección Correo Electrónico">
+                        </div>
+                        <div class="form-group col-lg-6">
+                            <input type="text" required name="Empresa o Negocio" id="email" class="form-control" placeholder="Empresa o Negocio">
                         </div>
                         <div class="form-group col-lg-12">
                             <input type="text" required name="subject" id="subject" class="form-control" placeholder="Asunto">

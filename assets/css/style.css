@@ -9,6 +9,10 @@
     --c-brand-rgb: 0, 15, 41;
     --c-brand-rgbi:0, 15, 41;
  
+    /* Variable Gradiente del Fondo redes */
+
+    --r-brand-rgb:1, 15, 66;
+
     /* variable para lineas del footer */
     --c-linea-f:#2b9ad1;
 
@@ -481,4 +485,30 @@ footer ul {
     font-size: 1.1rem;
     background-color: #7272723d;
     border-radius: 5px;
+}
+
+/* ESTILOS MODULO REDES */
+
+#redes {
+    background: linear-gradient(rgba(var(--c-brand-rgb), 0.507), rgba(var(--c-brand-rgb), 0.438)), url(../images/redes-informaticas.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.red-img{
+    width: 45%;
+    opacity: 0.3;
+}
+
+.icon i{
+    font-size: 2.0rem;
+    color: #2b9ad1;
+}
+
+/* ESTILOS DE POLITICA DE PRIVACIDAD */
+
+#privacidad {
+    background: linear-gradient(rgba(var(--c-brand-rgb), 0.507), rgba(var(--c-brand-rgb), 0.438)), url(../images/privacidad.webp);
+    background-position: center;
+    background-size: cover;
 }

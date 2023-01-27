@@ -14,11 +14,11 @@
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link" aria-current="page" href="http://localhost/movisoftv2/index.php#acerca">Acerca</a>
+                        <a class="nav-link" aria-current="page" href="http://localhost/movisoft_git/index.php#acerca">Acerca</a>
                     </li>
 
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="http://localhost/movisoftv2/index.php#servicios" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        <a href="localhost/movisoft_git/index.php#servicios" data-home-url class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Servicios
           </a>
                     <ul class="dropdown-menu">
@@ -27,10 +27,9 @@
                         <li><a class="dropdown-item" href="gestion.php">Gestion y Mantenimiento</a></li>
                         <li><a class="dropdown-item" href="soporte.php">Soporte Técnico</a></li>
                         <li><a class="dropdown-item" href="redes.php">Redes</a></li>
-                        <li><a class="dropdown-item" href="#">Seguridad Informática</a></li>
-                        <li><a class="dropdown-item" href="#">Software</a></li>
-                        <li><hr class="dropdown-divider"></li>
-                        <li><a class="dropdown-item" href="#">Something else here</a></li>
+                        <li><a class="dropdown-item" href="software.php">Software</a></li>
+                        <!-- <li><hr class="dropdown-divider"></li> -->
+                        <!-- <li><a class="dropdown-item" href="#">Something else here</a></li> -->
                     </ul>
                     </li>
 

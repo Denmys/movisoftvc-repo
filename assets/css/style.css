@@ -25,6 +25,7 @@
     --c--boton: #001739;
     --c--boton-alumbrado:#173b71;
     --c-bg-titlesection:rgba(10, 59, 127, 0.034);
+    --bs-link-color: #bebebe;
 } /** FIN DE LAS VARIABLES **/
 
 body {
@@ -446,6 +447,10 @@ footer ul {
     text-shadow: 0px 1px 0px #d12b2b;
 }
 
+.marquesina{
+    display: flex;
+}
+
 .image-layers{
     border-radius: 2%;
     display: inline-block;
@@ -511,4 +516,77 @@ footer ul {
     background: linear-gradient(rgba(var(--c-brand-rgb), 0.507), rgba(var(--c-brand-rgb), 0.438)), url(../images/privacidad.webp);
     background-position: center;
     background-size: cover;
+}
+
+/*BOTON FLOTANTE ESTILOS*/
+
+#button-up{
+    width: 60px;
+    height: 60px;
+    background: #003652;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border-radius: 50%;
+    font-size: 20px;
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+    cursor: pointer;
+    border: 4px solid transparent;
+    transition: all 300ms ease;
+    z-index: 10;
+    transform: scale(0);
+}
+
+#button-up:hover{
+    transform: scale(1.1);
+    border-color: rgba(0, 0, 0, 0.1);
+}
+
+/* MODULO DE SOFTWARE */
+
+#software-mod {
+    background: linear-gradient(rgba(var(--c-brand-rgb), 0.507), rgba(var(--c-brand-rgb), 0.438)), url(../images/Software.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.consultoria{
+    padding: 25px;
+    padding-top: 15px;
+}
+
+.importancia{
+    background: #001739;
+    border-radius: 15%;
+    box-shadow: #000000;
+}
+
+.importancia h5{
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    border-color: #000000 5px;
+    text-shadow: #2b9ad1;
+}
+
+.importancia p{
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+/* ESTILOS PARA LOS MODALS */
+
+.btn-link{
+    color: var(--bs-link-color) !important;
+    text-transform: capitalize;
+    text-decoration:none;
+    font-size: 0.99rem;
+    padding: 0;
+}
+
+.face-comp{
+    padding-top: 45px;
 }

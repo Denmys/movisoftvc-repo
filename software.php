@@ -1,15 +1,16 @@
 <!DOCTYPE html>
-<html lang="es_ES">
+<html lang="en">
 <head>
-<meta charset="utf-8">
+    <meta charset="utf-8">
     <meta property="og:locale" content="es_ES" />
     <meta id="headerContent_keywordsTag" name="keywords" content="servicios informáticos, empresa servicios informáticos, servicios informaticos, informática, servicio integral, servicios consultoría informática, Movisoft, Villa Clara, Cuba, MiPyme, emprendedores, soporte técnico, redes, montaje de redes, SEO, posicionamiento, desarrollo, fabricar, comercializar componentes, diseño gráfico, sistemas operativos. Español"></meta>
     <meta id="headerContent_descriptionTag" name="description" content="Brindamos servicios de planificación y diseño de sistemas informáticos que integran equipos y programas informáticos y tecnología de las comunicaciones. Igualmente prestamos servicios de asistencia técnica asociados a la informática y las telecomunicaciones."></meta>
     <meta id="headerContent_metaTitleTag" name="Title" content="Servicios informáticos - Movisoft"></meta>
     <meta id="headerContent_OG_SiteName" property="og:site_name" content="Movisoft"></meta>
     <meta id="OG-Image" property="og:image" content="img/movisoft.png"></meta>
-    <meta property="og:type" content="article"></meta>
+    <meta property="og:type" content="article" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    
     <link rel="icon" type="image/png" sizes="16x16" href="./assets/images/fav-icon/favicon-16x16.png">
 
     <title>MoviSoft VC</title>
@@ -17,29 +18,23 @@
     <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.css">
     <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" />
     <link rel="stylesheet" href="./assets/css/style.css">
-    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
 </head>
 <body>
-    <!--MENU-->
-
+    
+    <!--IMPORTANDO EL MENU-->
     <?php require_once "comun/menu.php" ?>
 
-    <!--FIN DEL MENU-->
- 
-    <!--CONTENIDO DEL MODULO-->
-
-    <?php require_once "modulos/redesMod.php"?>
+    <!-- IMPORTANDO CONTENIDO DEL MODULO-->
+    <?php require_once "modulos/softwareMod.php" ?>
 
     <!--CONTACTO-->
-
-    <?php require_once "comun/contacto.php" ?>
-
+    <?php require_once "comun/contacto.php"?>
     <!--BOTÓN FLOTANTE-->
     <?php require_once "comun/btnflot.php"?>
 
-    <!--Footer-->
-
+    <!--IMPORTANDO ELEMENTO COMÚN FOOTER-->
     <?php require_once "comun/footer.php" ?>
 
 
@@ -47,8 +42,10 @@
     <script src="assets/librerias/bootstrap/js/bootstrap.bundle.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js"></script>
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/js/all.min.js"></script>
     <script src="./assets/js/main.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/js/all.min.js"></script> 
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
 </body>
+
 <?php require_once "comun/modal-os.php"?>
 </html>

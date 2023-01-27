@@ -4,19 +4,11 @@
 <head>
     <meta charset="utf-8">
     <meta property="og:locale" content="es_ES" />
-    <meta id="headerContent_keywordsTag" name="keywords"
-        content="
-  servicios informáticos, empresa servicios informáticos, servicios informaticos, informática, servicio integral, servicios consultoría informática, Movisoft, Villa Clara, Cuba, MiPyme, emprendedores, soporte técnico, redes, montaje de redes, SEO, posicionamiento, desarrollo, fabricar, comercializar componentes, diseño gráfico, sistemas operativos. Español">
-    </meta>
-    <meta id="headerContent_descriptionTag" name="description"
-        content="Brindamos servicios de planificación y diseño de sistemas informáticos que integran equipos y programas informáticos y tecnología de las comunicaciones. Igualmente prestamos servicios de asistencia técnica asociados a la informática y las telecomunicaciones.">
-    </meta>
-    <meta id="headerContent_metaTitleTag" name="Title" content="Servicios informáticos - Movisoft">
-    </meta>
-    <meta id="headerContent_OG_SiteName" property="og:site_name" content="Movisoft">
-    </meta>
-    <meta id="OG-Image" property="og:image" content="img/movisoft.png">
-    </meta>
+    <meta id="headerContent_keywordsTag" name="keywords" content="servicios informáticos, empresa servicios informáticos, servicios informaticos, informática, servicio integral, servicios consultoría informática, Movisoft, Villa Clara, Cuba, MiPyme, emprendedores, soporte técnico, redes, montaje de redes, SEO, posicionamiento, desarrollo, fabricar, comercializar componentes, diseño gráfico, sistemas operativos. Español"></meta>
+    <meta id="headerContent_descriptionTag" name="description" content="Brindamos servicios de planificación y diseño de sistemas informáticos que integran equipos y programas informáticos y tecnología de las comunicaciones. Igualmente prestamos servicios de asistencia técnica asociados a la informática y las telecomunicaciones."></meta>
+    <meta id="headerContent_metaTitleTag" name="Title" content="Servicios informáticos - Movisoft"></meta>
+    <meta id="headerContent_OG_SiteName" property="og:site_name" content="Movisoft"></meta>
+    <meta id="OG-Image" property="og:image" content="img/movisoft.png"></meta>
     <meta property="og:type" content="article" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
@@ -49,6 +41,9 @@
                 <div class="col-12">
                     <h1 data-aos="fade-left" class="bienvenida text-uppercase text-white fw-semibold display-1">Bienvenido a Movisoft</h1>
                     <h5 class="bienvenida text-white mt-3 mb-4" data-aos="fade-right">SOLUCIONES INFORMÁTICAS QUE INSPIRAN</h5>
+                </div>
+                <div data-aos="fade-down" data-aos-delay="50">
+                        <a href="#acerca" class="btn btn-brand me-2">Ver</a>
                 </div>
             </div>
         </div>
@@ -131,7 +126,7 @@
                         </div>
                         <h5 class="mt-4 mb-3 text-uppercase">Posicionamiento Web</h5>
                         <p>Una herramienta perfecta para destacar y mejorar la visilidad de tu página web, bien sea a traves de posicionamiento orgánico o de anuncios en buscadores.</p>
-                        <a href="" class="btn btn-brand ms-lg-3">Ver más...</a>
+                        <a href="posicionamiento.php" class="btn btn-brand ms-lg-3">Ver más...</a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6" data-aos="fade-down" data-aos-delay="450">
@@ -141,7 +136,7 @@
                         </div>
                         <h5 class="mt-4 mb-3 text-uppercase">Hosting Profesional</h5>
                         <p>Servicios de hosting web profesinal que te ofrecen soluciones integrales para tus proyectos web con soporte técnico incluido.</p>
-                        <a href="" class="btn btn-brand ms-lg-3">Ver más...</a>
+                        <a href="" class="btn btn-brand ms-lg-3">Proximamente...</a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6" data-aos="fade-down" data-aos-delay="550">
@@ -151,7 +146,7 @@
                         </div>
                         <h5 class="mt-4 mb-3 text-uppercase">Sistemas de Información</h5>
                         <p>Implementamos en su empresa  soluciones ERP, CRM, Gestores de Contenido y otros  sistemas adaptandonos a sus necesidades.</p>
-                        <a href="" class="btn btn-brand ms-lg-3">Ver más...</a>
+                        <a href="gestion.php" class="btn btn-brand ms-lg-3">Ver más...</a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6" data-aos="fade-down" data-aos-delay="650">
@@ -159,9 +154,9 @@
                         <div class="iconbox">
                             <i class="ri-settings-2-line"></i>
                         </div>
-                        <h5 class="mt-4 mb-3 text-uppercase">Soprte Técnico-Electronico</h5>
+                        <h5 class="mt-4 mb-3 text-uppercase">Soporte Técnico-Electronico</h5>
                         <p>Reparación de electrónica en todos tus productos que ya no tienen garantía, incluso aquellos que no has adquirido en Movisoft. </p>
-                        <a href="" class="btn btn-brand ms-lg-3">Ver más...</a>
+                        <a href="soporte.php" class="btn btn-brand ms-lg-3">Ver más...</a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6" data-aos="fade-down" data-aos-delay="750">
@@ -170,8 +165,8 @@
                             <i class="ri-macbook-line"></i>
                         </div>
                         <h5 class="mt-4 mb-3 text-uppercase">Hardware</h5>
-                        <p>Las mejores configuraciones de Computadoras para su empresa. Ajustamos los equipos a sus necesidades, incluyendo los prefericos que sean necesarios.</p>
-                        <a href="" class="btn btn-brand ms-lg-3">Ver más...</a>
+                        <p>Las mejores configuraciones de Computadoras para su empresa. Ajustamos los equipos a sus necesidades, incluyendo los priféricos que sean necesarios.</p>
+                        <a href="soporte.php" class="btn btn-brand ms-lg-3">Ver más...</a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6" data-aos="fade-down" data-aos-delay="850">
@@ -181,7 +176,7 @@
                         </div>
                         <h5 class="mt-4 mb-3 text-uppercase">Redes Informáticas</h5>
                         <p>El control permanente de la conectividad e integridad de sus redes es fundamental para una buena gestión y operación de su empresa. Tenemos la solución para usted.</p>
-                        <a href="" class="btn btn-brand ms-lg-3">Ver más...</a>
+                        <a href="redes.php" class="btn btn-brand ms-lg-3">Ver más...</a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6" data-aos="fade-down" data-aos-delay="950">
@@ -191,7 +186,7 @@
                         </div>
                         <h5 class="mt-4 mb-3 text-uppercase">Seguridad Informática</h5>
                         <p>Nos esforzamos en proteger su infraestructura informática e información, de ataques maliciosos. Con una estricta política de confidencialidad.</p>
-                        <a href="" class="btn btn-brand ms-lg-3">Ver más...</a>
+                        <a href="software.php" class="btn btn-brand ms-lg-3">Ver más...</a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6" data-aos="fade-down" data-aos-delay="1050">
@@ -201,20 +196,22 @@
                         </div>
                         <h5 class="mt-4 mb-3 text-uppercase">Sistemas Operativos y Software</h5>
                         <p>Implementar sistemas de gestión en las organizaciones involucra, en mayor o menor grado, gestionar cambios. Con una buena estrategia es posible.</p>
-                        <a href="" class="btn btn-brand ms-lg-3">Ver más...</a>
+                        <a href="software.php" class="btn btn-brand ms-lg-3">Ver más...</a>
                     </div>
                 </div>
             </div>
         </div>
      </section>
 
+
+     
      <!--CONTACTO-->
 
      <?php require_once "comun/contacto.php"?>
-
+     <?php require_once "comun/btnflot.php"?>
      <!--Footer-->
      <?php require_once "comun/footer.php"?>
-     
+
     <script src="assets/librerias/bootstrap/js/bootstrap.bundle.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js"></script>
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
@@ -222,4 +219,5 @@
     <script src="./assets/js/main.js"></script>
 </body>
 
+<?php require_once "comun/modal-os.php"?>
 </html>

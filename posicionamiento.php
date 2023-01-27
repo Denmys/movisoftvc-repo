@@ -34,6 +34,9 @@
 
     <?php require_once "modulos/modPosicionamiento.php" ?>
 
+    <!--BOTÓN FLOTANTE-->
+    <?php require_once "comun/btnflot.php"?>
+
 
     <!--IMPORTANDO ELEMENTO COMÚN FOOTER-->
     <?php require_once "comun/footer.php" ?>
@@ -42,6 +45,7 @@
     <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js"></script>
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
     <script src="./assets/js/main.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/js/all.min.js"></script>
 </body>
-
+<?php require_once "comun/modal-os.php"?>
 </html>

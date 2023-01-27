@@ -1,4 +1,4 @@
-<marquee data-aos="fade-down" id="marquesita" behavior="" direction=""  scrolldelay="100">*Mantenimiento preventivo y correctivo* &nbsp &nbsp &nbsp - &nbsp &nbsp &nbsp *Actualización de computadora o laptop* &nbsp &nbsp &nbsp - &nbsp &nbsp &nbsp *Revisión, Reparación y Mantenimiento en Taller* &nbsp &nbsp &nbsp - &nbsp &nbsp &nbsp *Atención 100% Personalizada* &nbsp &nbsp &nbsp - &nbsp &nbsp &nbsp *Garantía hasta 180 días* </marquee>
+<marquee class="marquesina" data-aos="fade-down" id="marquesita" behavior="" direction=""  scrolldelay="100">*Mantenimiento preventivo y correctivo* &nbsp &nbsp &nbsp - &nbsp &nbsp &nbsp *Actualización de computadora o laptop* &nbsp &nbsp &nbsp - &nbsp &nbsp &nbsp *Revisión, Reparación y Mantenimiento en Taller* &nbsp &nbsp &nbsp - &nbsp &nbsp &nbsp *Atención 100% Personalizada* &nbsp &nbsp &nbsp - &nbsp &nbsp &nbsp *Garantía hasta 180 días* </marquee>
 <section id="soporte" class="min-vh-100 d-flex align-items-center text-center">
     <div class="container">
         <div class="row">

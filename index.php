@@ -165,7 +165,7 @@
                             <i class="ri-macbook-line"></i>
                         </div>
                         <h5 class="mt-4 mb-3 text-uppercase">Hardware</h5>
-                        <p>Las mejores configuraciones de Computadoras para su empresa. Ajustamos los equipos a sus necesidades, incluyendo los priféricos que sean necesarios.</p>
+                        <p>Las mejores configuraciones de Computadoras para su empresa. Ajustamos los equipos a sus necesidades, incluyendo los periféricos que sean necesarios.</p>
                         <a href="soporte.php" class="btn btn-brand ms-lg-3">Ver más...</a>
                     </div>
                 </div>

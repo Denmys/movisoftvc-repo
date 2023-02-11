@@ -52,7 +52,7 @@
                     <i class="ri-terminal-box-fill"></i>
                     </div>
                     <h5 class="mt-4 mb-3 text-uppercase">Creación De Contenidos SEO</h5>
-                    <p>Tenemos un equipo de redactores SEO de altísima calidad, que cuidan los detalles para llevar tu blog al máximo nivel y mejorar el posicionamiento SEO.</p>
+                    <p>Tenemos un equipo de redactores SEO de altísima calidad, que cuidan los detalles para llevar tu blog al máximo nivel y mejorar el posicionamiento en los buscadores.</p>
                 </div>
             </div>
         </div>

@@ -10,15 +10,15 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto text-center">
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="index.php">Inicio</a>
+                        <a class="nav-link active" aria-current="page" href="index.php#inicio">Inicio</a>
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link" aria-current="page" href="http://localhost/movisoft_git/index.php#acerca">Acerca</a>
+                        <a class="nav-link" aria-current="page" href="index.php#acerca">Acerca</a>
                     </li>
 
                     <li class="nav-item dropdown">
-                        <a href="localhost/movisoft_git/index.php#servicios" data-home-url class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        <a href="index.php#servicios" data-home-url class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Servicios
           </a>
                     <ul class="dropdown-menu">

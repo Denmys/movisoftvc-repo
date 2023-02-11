@@ -3,16 +3,16 @@
 <head>
 <meta charset="utf-8">
     <meta property="og:locale" content="es_ES" />
-    <meta id="headerContent_keywordsTag" name="keywords" content="servicios informáticos, empresa servicios informáticos, servicios informaticos, informática, servicio integral, servicios consultoría informática, Movisoft, Villa Clara, Cuba, MiPyme, emprendedores, soporte técnico, redes, montaje de redes, SEO, posicionamiento, desarrollo, fabricar, comercializar componentes, diseño gráfico, sistemas operativos. Español"></meta>
+    <meta id="headerContent_keywordsTag" name="keywords" content="Política, Privacidad, servicios informáticos, empresa servicios informáticos, servicios informaticos, informática, servicio integral, servicios consultoría informática, Movisoft, Villa Clara, Cuba, MiPyme, emprendedores, soporte técnico, redes, montaje de redes, SEO, posicionamiento, desarrollo, fabricar, comercializar componentes, diseño gráfico, sistemas operativos. Español"></meta>
     <meta id="headerContent_descriptionTag" name="description" content="Brindamos servicios de planificación y diseño de sistemas informáticos que integran equipos y programas informáticos y tecnología de las comunicaciones. Igualmente prestamos servicios de asistencia técnica asociados a la informática y las telecomunicaciones."></meta>
-    <meta id="headerContent_metaTitleTag" name="Title" content="Servicios informáticos - Movisoft"></meta>
+    <meta id="headerContent_metaTitleTag" name="Title" content="Política de Privacidad - Movisoft"></meta>
     <meta id="headerContent_OG_SiteName" property="og:site_name" content="Movisoft"></meta>
     <meta id="OG-Image" property="og:image" content="img/movisoft.png"></meta>
     <meta property="og:type" content="article"></meta>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="icon" type="image/png" sizes="16x16" href="./assets/images/fav-icon/favicon-16x16.png">
 
-    <title>MoviSoft VC</title>
+    <title>Política de Privacidad - Movisoft</title>
     <link rel="stylesheet" href="assets/librerias/bootstrap/css/bootstrap.min.css">
     <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.css">

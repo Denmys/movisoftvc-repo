@@ -34,7 +34,7 @@
     					      <li><button type="button" class="btn btn-link" data-bs-toggle="modal" data-bs-target="#objetoSocial">Objeto Social</button></li>
     					      <li><button type="button" class="btn btn-link" data-bs-toggle="modal" data-bs-target="#legalidad">Legalidad</button></li>
 							  <li><a href="politica.php"><strong>Politica de Privacidad</strong> </a></li>
-							  <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fmovisoftsc.000webhostapp.com%2F&layout=button_count&size=small&width=99&height=20&appId" width="99" height="20" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+							  <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.movisoftvc.com%2F&layout=button_count&size=small&width=99&height=20&appId" width="99" height="20" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
     				      </ul>    
     			</div>
             <div class="col-lg-3 col-sm-6 text-left">
@@ -45,8 +45,8 @@
                      <li>e/Hospital y A.Oms.</li>
                      <li>Santa Clara. Villa Clara</li>
                      <li><strong>Teléfono: </strong> <a data-bs-toggle="tooltip" data-bs-placement="top" title="Contactenos por Whatsapp" href="https://api.whatsapp.com/send?phone=5352378034&text=hola,%20qué%20tal?">+5352378034</a> <i class="ri-whatsapp-line"></i></li>
-                     <li><a href="https://movisoftsc.000webhostapp.com/">http://movisoftvc.atwebpages.com</a></li>
-                  </ul>    
+					 <li><a href="mailto:administrador@movisoftvc.com">Contácte con el WebMaster</a></li>
+                     
             </div>
                </div>
           </div>

@@ -62,6 +62,7 @@
             </div>   
             </div>
         </div>
+        <hr>
         <div class="row section-g-padding" data-aos="fade-down" data-aos-delay="450">
             <div class="section-title">
                 <h1 class="title display-4 fw-semibold text-center">Otros Productos</h1>
@@ -92,6 +93,7 @@
                 </div>
             </div>
         </div>
+        <hr>
         <div class="row section-g-padding">
             <div class="col-lg-12" data-aos="fade-down" data-aos-delay="650">
                 <div class="section-title">

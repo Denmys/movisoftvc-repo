@@ -5,12 +5,12 @@
 
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta id="headerContent_keywordsTag" name="keywords" content="servicios informáticos, empresa de servicios informáticos, servicios informaticos, informática, servicio integral, servicios consultoría informática, Movisoft, Villa Clara, Cuba, MiPyme, emprendedores, soporte técnico, redes, montaje de redes, SEO, posicionamiento, desarrollo, fabricar, comercializar componentes, diseño gráfico, sistemas operativos. Español">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta id="headerContent_keywordsTag" name="keywords" content="Gestión, Sistemas, servicios informáticos, soluciones, empresa de servicios informáticos, servicios informáticos, informática, servicio integral, servicios consultoría informática, Movisoft, Villa Clara, Cuba, MiPyme, emprendedores, soporte técnico, redes, montaje de redes, SEO, posicionamiento, desarrollo, fabricar, comercializar componentes, diseño gráfico, sistemas operativos. Español">
     </meta>
-    <meta id="headerContent_descriptionTag" name="description" content="Brindamos servicios de planificación y diseño de sistemas informáticos que integran equipos y programas informáticos y tecnología de las comunicaciones. Igualmente prestamos servicios de asistencia técnica asociados a la informática y las telecomunicaciones.">
+    <meta id="headerContent_descriptionTag" name="description" content="cloud, necesidades, Soporte, Consultoría, Planes, Seguridad, Aliados, Nuestra empresa de de servicios informáticos te brinda todas las soluciones posibles para tu modelo de negocio desde el estudio de las necesidades del cliente.">
     </meta>
-    <meta id="headerContent_metaTitleTag" name="Title" content="Servicios informáticos - Movisoft">
+    <meta id="headerContent_metaTitleTag" name="Title" content="Gestión de Sistemas - Movisoft">
     </meta>
     <meta id="headerContent_OG_SiteName" property="og:site_name" content="Movisoft">
     </meta>
@@ -18,7 +18,7 @@
     </meta>
     <meta property="og:type" content="article" />
     <link rel="icon" type="image/png" sizes="16x16" href="./assets/images/fav-icon/favicon-16x16.png">
-    <title>MovisoftVC</title>
+    <title>Gestión de Sistemas - Movisoft</title>
 
     <link rel="stylesheet" href="assets/librerias/bootstrap/css/bootstrap.min.css">
     <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">

@@ -1,20 +1,17 @@
 <!doctype html>
-<html lang="es">
+<html lang="es" prefix="og: https://ogp.me/ns#">
 
 <head>
-    <meta charset="utf-8">
-    <meta property="og:locale" content="es_ES" />
-    <meta id="headerContent_keywordsTag" name="keywords" content="servicios informáticos, empresa servicios informáticos, servicios informaticos, informática, servicio integral, servicios consultoría informática, Movisoft, Villa Clara, Cuba, MiPyme, emprendedores, soporte técnico, redes, montaje de redes, SEO, posicionamiento, desarrollo, fabricar, comercializar componentes, diseño gráfico, sistemas operativos. Español"></meta>
-    <meta id="headerContent_descriptionTag" name="description" content="Brindamos servicios de planificación y diseño de sistemas informáticos que integran equipos y programas informáticos y tecnología de las comunicaciones. Igualmente prestamos servicios de asistencia técnica asociados a la informática y las telecomunicaciones."></meta>
-    <meta id="headerContent_metaTitleTag" name="Title" content="Servicios informáticos - Movisoft"></meta>
-    <meta id="headerContent_OG_SiteName" property="og:site_name" content="Movisoft"></meta>
-    <meta id="OG-Image" property="og:image" content="img/movisoft.png"></meta>
-    <meta property="og:type" content="article" />
-    <meta name="viewport" content="width=device-width, initial-scale=1">
     
-    <link rel="icon" type="image/png" sizes="16x16" href="./assets/images/fav-icon/favicon-16x16.png">
+    <?php require_once "comun/meta.php" ?>
+    <meta property="og:description" content="Servicios Informáticos y Soporte Técnico Especializado, Desarrollo Web a la Medida y Marketing Digital empleando las últimas técnicas de SEO. Somos su Mejor Aliado."></meta>
+    <meta name="description" content="Servicios Informáticos y Soporte Técnico Especializado, Desarrollo Web a la Medida y Marketing Digital empleando las últimas técnicas de SEO. Somos su Mejor Aliado."/>
+    <meta property="og:title" content="Servicios informáticos que Inspiran - MovisoftVC"></meta>
 
-    <title>MoviSoft VC</title>
+    <link rel="icon" type="images/png" sizes="16x16" href="./assets/images/fav-icon/favicon-16x16.png">
+    
+
+    <title>MoviSoftVC Servicios Informáticos</title>
     <link rel="stylesheet" href="assets/librerias/bootstrap/css/bootstrap.min.css">
     <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.css">
@@ -40,7 +37,7 @@
             <div class="row">
                 <div class="col-12">
                     <h1 data-aos="fade-left" class="bienvenida text-uppercase text-white fw-semibold display-1">Bienvenido a Movisoft</h1>
-                    <h5 class="bienvenida text-white mt-3 mb-4" data-aos="fade-right">SOLUCIONES INFORMÁTICAS QUE INSPIRAN</h5>
+                    <h2 class="bienvenida text-white mt-3 mb-4" data-aos="fade-right">SOLUCIONES INFORMÁTICAS QUE INSPIRAN</h2>
                 </div>
                 <div data-aos="fade-down" data-aos-delay="50">
                         <a href="#acerca" class="btn btn-brand me-2">Ver</a>
